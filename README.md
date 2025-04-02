@@ -53,5 +53,5 @@ The dataset contains 30 numeric features computed from digitized images of fine 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/breast-cancer-knn.git
+   git clone https://github.com/Gyan268/breast-cancer-knn.git
    cd breast-cancer-knn
